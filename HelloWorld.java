@@ -34,12 +34,12 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
+    System.out.println("Hello World............");
+     System.out.println("Hello World............");
+     System.out.println("Hello World............");
+     System.out.println("Hello World............");
+     System.out.println("Hello World............");
+     System.out.println("This is my first freestyle project............");
 
   }
 }
